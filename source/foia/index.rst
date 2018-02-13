@@ -175,13 +175,11 @@ Art. 13 Norma di rinvio
 
 TITOLO II - ACCESSO AI DOCUMENTI AMMINISTRATIVI
 ================================================
-
---------------------------------
+-----------------------------
 CAPO I DISPOSIZIONI GENERALI
---------------------------------
-
+-----------------------------
 Art. 14 Fonti e finalità
---------------------------------
+-----------------------------
 
 1. Il presente regolamento attua i principi affermati dal D.Lgs.18 agosto 2000 n.267 e le disposizioni stabilite dalla legge 7 agosto 1990, n. 241, dalla legge 7 giugno 2000, n.150, dal D.P.R. 28 dicembre 2000, n.445 e dallo statuto per assicurare la trasparenza e la pubblicità dell'attività amministrativa ed il suo svolgimento imparziale, attraverso l'esercizio del diritto di accesso agli atti, ai documenti ed alle informazioni in possesso dell'Amministrazione (accesso documentale ex L. 241/90).
 2. In conformità a quanto stabilito dall'art. 10 del D.Lgs.18 agosto 2000, n.267, tutti gli atti dell'Amministrazione comunale sono pubblici ad eccezione di quelli riservati per espressa indicazione di legge o per effetto dei provvedimenti di esclusione o limitazione dell’accesso. Il presente regolamento assicura agli individui, singoli ed associati, il diritto di accesso agli atti amministrativi e, in generale, alle informazioni di cui è in possesso l'Amministrazione, per rendere effettiva e consapevole la loro partecipazione all'attività del Comune.
@@ -357,12 +355,12 @@ Art. 27 Tutela giurisdizionale del diritto di accesso
 
 1. Con il provvedimento finale che decide in ordine all’ammissibilità della richiesta d’accesso l'interessato deve essere informato della tutela giurisdizionale del diritto dallo stesso attivabile secondo il comma 5 dell'art. 25 della legge 7 agosto 1990, n. 241
 
-----------------------------------------------------------------
+-----------------------------------
 CAPO II - DIRITTO DI INFORMAZIONE
-----------------------------------------------------------------
+-----------------------------------
 
 Art. 28 Garanzie del diritto
-----------------------------------------------------------------
+-----------------------------
 
 1. L'esercizio del diritto da parte dei soggetti previsti dal presente regolamento di accedere alle informazioni di cui è in possesso l'Amministrazione è promosso ed assicurato dal Sindaco e dalla Giunta e realizzato dall'organizzazione dell'ente secondo le norme stabilite dal presente regolamento.
 2. L'esercizio del diritto deve assicurare ai soggetti previsti dal presente regolamento tutte le informazioni sullo stato degli atti e delle procedure, sull'ordine di esame di domande, progetti e provvedimenti che comunque li riguardino.
