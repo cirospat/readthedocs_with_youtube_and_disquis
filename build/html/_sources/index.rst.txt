@@ -19,3 +19,4 @@ F.O.I.A.
    :caption: Regolamento:
 
    foia/index
+   ptct/index

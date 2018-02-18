@@ -3,12 +3,8 @@ Informazioni
 =============================================
 Sono previste due tipologie di accesso civico:
 
-a) Accesso civico concernente dati, documenti e informazioni soggetti a pubblicazione obbligatoria (art. 5, comma 1, del D. Lgs n. 33/2013)
-b) Accesso civico generalizzato contenente i dati ed i documenti ulteriori rispetto a quelli soggetti a pubblicazione obbligatoria (art. 5, comma 2, del D. Lgs n.33/2013)
-
-Riferimenti
-==================
-`art. 5, co. 1, del decreto legislativo 14 marzo 2013, n. 33`_
+a) Accesso civico concernente dati, documenti e informazioni soggetti a pubblicazione obbligatoria (`art. 5, co. 1, del decreto legislativo 14 marzo 2013, n. 33`_)
+b) Accesso civico generalizzato contenente i dati ed i documenti ulteriori rispetto a quelli soggetti a pubblicazione obbligatoria (`art. 5, co. 2, del decreto legislativo 14 marzo 2013, n. 33`_)
 
 Accesso civico alle pubblicazioni
 ==================================
@@ -68,6 +64,7 @@ Contatti:
 .. _ufficiostampa.gioiadelcolle@pec.rupar.puglia.it: mailto:ufficiostampa.gioiadelcolle@pec.rupar.puglia.it
 .. _segretario.gioiadelcolle@pec.rupar.puglia.it: mailto:segretario.gioiadelcolle@pec.rupar.puglia.it
 .. _art. 5, co. 1, del decreto legislativo 14 marzo 2013, n. 33: http://www.funzionepubblica.gov.it/articolo/ministro/12-02-2016/trasparenza
+.. _art. 5, co. 2, del decreto legislativo 14 marzo 2013, n. 33: http://www.funzionepubblica.gov.it/articolo/ministro/12-02-2016/trasparenza
 .. _modello richiesta di accesso civico art. 5, co. 1, D. Lgs 33/2013: http://www.comune.gioiadelcolle.ba.it/cms/files/72fff5d2-4ee0-44a4-8d53-93197d47239b
 .. _FOIAPOP: http://www.foiapop.it/ente/6f46f254-0ff0-40cd-be4f-f354ee3ccc88/scegli
 .. _D. Lgs n. 97/2016: http://www.gazzettaufficiale.it/eli/id/2016/06/08/16G00108/sg

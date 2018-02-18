@@ -2,8 +2,8 @@
 REGOLAMENTO COMUNALE IN MATERIA DI PROCEDIMENTO AMMINISTRATIVO,DI DIRITTO DI ACCESSO AI DOCUMENTI AMMINISTRATIVI E DI DIRITTO DI ACCESSO CIVICO AI DATI E DOCUMENTI
 ====================================================================================================================================================================
 
-Ai sensi del D.Lgs 33/2013 modificato dal D.Lgs. 25 maggio 2016 n. 97
-Approvato con Deliberazione di C.C. n. 6 del 2/3/2017
+- Ai sensi del D.Lgs 33/2013 modificato dal `D.Lgs. 25 maggio 2016 n. 97`_
+- Approvato con Deliberazione di `C.C. n. 6 del 2/3/2017`_
 
 TITOLO I - IL PROCEDIMENTO AMMINISTRATIVO
 ==========================================
@@ -175,9 +175,11 @@ Art. 13 Norma di rinvio
 
 TITOLO II - ACCESSO AI DOCUMENTI AMMINISTRATIVI
 ================================================
+
 -----------------------------
 CAPO I DISPOSIZIONI GENERALI
 -----------------------------
+
 Art. 14 Fonti e finalità
 -----------------------------
 
@@ -351,7 +353,7 @@ Art. 26 Temporanea esclusione (differimento)
 4. Deve essere comunque garantito ai richiedenti l’accesso ai documenti amministrativi la cui conoscenza sia necessaria per curare o difendere i propri interessi giuridici. Nel caso di documenti contenti dati sensibili e giudiziari, l’accesso è consentito nei limiti in cui sia strettamente indispensabile. Quando il trattamento concerne dati idonei a rivelare lo stato di salute o la vita sessuale, il trattamento è consentito se la situazione giuridicamente rilevante che si intende tutelare con la richiesta di accesso ai documenti amministrativi è di rango almeno pari ai diritti dell'interessato, ovvero consiste in un diritto della personalità o in un altro diritto o libertà fondamentale e inviolabile.
 
 Art. 27 Tutela giurisdizionale del diritto di accesso
-----------------------------------------------------------------
+------------------------------------------------------
 
 1. Con il provvedimento finale che decide in ordine all’ammissibilità della richiesta d’accesso l'interessato deve essere informato della tutela giurisdizionale del diritto dallo stesso attivabile secondo il comma 5 dell'art. 25 della legge 7 agosto 1990, n. 241
 
@@ -407,7 +409,7 @@ A tale fine, sono predisposte guide informative per i diversi argomenti, contene
 Art. 31 Ufficio Relazioni con il pubblico (U.R.P.)
 ----------------------------------------------------------------
 
-L’Ufficio Relazioni con il pubblico deve garantire, mediante la gestione dell’intero pro- cedimento di accesso ai documenti formati dagli altri uffici dell’Amministrazione, il servizio del diritto di accesso, dei diritti di partecipazione procedimentale,
+L’Ufficio Relazioni con il Pubblico (U.R.P.) deve garantire, mediante la gestione dell’intero pro- cedimento di accesso ai documenti formati dagli altri uffici dell’Amministrazione, il servizio del diritto di accesso, dei diritti di partecipazione procedimentale,
 l’informazione relativa agli atti e allo stato del procedimento.
 L’U.R.P. deve essere dotato di personale adeguato alle effettive necessità rilevate nel funzionamento, impianti tecnologici ed informatici di collegamento con le unità orga- nizzative del servizio di accesso nei diversi settori dell’Amministrazione, con le relative banche dati e con l’archivio.
 Il Dirigente dell’ufficio/Responsabile del servizio provvede a nominare il Responsabile del procedimento di accesso e le rispettive competenze.
@@ -515,13 +517,13 @@ TITOLO IV – DISPOSIZIONI FINALI
 Art. 38 Modulistica utile per l’applicazione del presente regolamento
 ----------------------------------------------------------------------
 
-1.Al fine di facilitare gli operatori negli adempimenti di competenza, per la puntuale applicazione delle norme e di ridurre al minimo il numero delle operazioni materiali
+1. Al fine di facilitare gli operatori negli adempimenti di competenza, per la puntuale applicazione delle norme e di ridurre al minimo il numero delle operazioni materiali
 occorrenti, gli uffici fanno uso di modulistica appositamente approntata.
 
 Art. 39 Tutela dei dati personali
 ----------------------------------------------------------------
 
-1.Il Comune garantisce, nelle forme ritenute più idonee, che il trattamento dei dati personali in suo possesso, si svolga nel rispetto dei diritti, delle libertà fondamentali, nonché della dignità delle persone fisiche, ai sensi del D.Lgs. n. 196/2003.
+1. Il Comune garantisce, nelle forme ritenute più idonee, che il trattamento dei dati personali in suo possesso, si svolga nel rispetto dei diritti, delle libertà fondamentali, nonché della dignità delle persone fisiche, ai sensi del D.Lgs. n. 196/2003.
 
 Art. 40 Casi non previsti nel presente regolamento
 ----------------------------------------------------------------
@@ -535,18 +537,18 @@ Art. 40 Casi non previsti nel presente regolamento
 Art. 41 Rinvio dinamico
 ----------------------------------------------------------------
 
-1.Le norme del presente regolamento si intendono modificate per effetto di sopravvenute norme vincolanti statali e regionali.
-2.In tali casi, in attesa della formale modificazione del presente regolamento, si applica la normativa sopra ordinata.
+1. Le norme del presente regolamento si intendono modificate per effetto di sopravvenute norme vincolanti statali e regionali.
+2. In tali casi, in attesa della formale modificazione del presente regolamento, si applica la normativa sopra ordinata.
 
 Art. 42 Norma speciale
 ----------------------------------------------------------------
 
-1.Per quanto riguarda i procedimenti in materia edilizia, tributaria, sicurezza, polizia amministrativa, codice della strada e relativamente al diritto di accesso all’informazione ambientale, nonché per tutte quelle disciplinate da normativa speciale, si applicano le specifiche normative nazionali e regionali di settore e relativi regolamenti comunali, nonché le disposizioni del presente regolamento, in quanto compatibili.
+1. Per quanto riguarda i procedimenti in materia edilizia, tributaria, sicurezza, polizia amministrativa, codice della strada e relativamente al diritto di accesso all’informazione ambientale, nonché per tutte quelle disciplinate da normativa speciale, si applicano le specifiche normative nazionali e regionali di settore e relativi regolamenti comunali, nonché le disposizioni del presente regolamento, in quanto compatibili.
 
 Art. 43 Abrogazione di norme
 ----------------------------------------------------------------
 
-1.All’entrata in vigore del presente regolamento è abrogato il “Regolamento in materia di termini – di responsabile del procedimento – diritto di accesso ai documenti amministrativi e tutela dei dati personali” approvato dal Consiglio comunale in ultimo con deliberazione 21 del 15.04.2004, nonché tutte le altre disposizioni incompatibili contenute in altri provvedimenti.
+1. All’entrata in vigore del presente regolamento è abrogato il “Regolamento in materia di termini – di responsabile del procedimento – diritto di accesso ai documenti amministrativi e tutela dei dati personali” approvato dal Consiglio comunale in ultimo con deliberazione 21 del 15.04.2004, nonché tutte le altre disposizioni incompatibili contenute in altri provvedimenti.
 
 Art. 44 Decorrenza
 ----------------------------------------------------------------
@@ -561,11 +563,13 @@ Copia del presente regolamento deve essere pubblicata sul sito web del Comune ne
 Art.46 Pubblicazione ed entrata in vigore
 ----------------------------------------------------------------
 
-1.Il presente regolamento, composto da n. 46 articoli, entra in vigore ad avvenuta esecutività della deliberazione con la quale è stato approvato.
-2.L’obbligatorietà ed esecutività della pubblicazione degli atti e procedimenti nell’Albo Pretorio Informatico ha decorrenza da 1° gennaio 2010 ai sensi dell’Art. 32 della legge 18 giugno 2009 n. 69;
-3.Il presente regolamento sostituisce ed abroga il precedente, approvato in ultimo con deliberazione di C.C. n. 21 del 15 aprile 2004;
-4.Dalla data di entrata in vigore del presente regolamento si intendono abrogate e/o disapplicate le vigenti norme statutarie o regolamenti in materia non compatibili con l’Art. 32 della legge 69/2009 e la presente disciplina.
+1. Il presente regolamento, composto da n. 46 articoli, entra in vigore ad avvenuta esecutività della deliberazione con la quale è stato approvato.
+2. L’obbligatorietà ed esecutività della pubblicazione degli atti e procedimenti nell’Albo Pretorio Informatico ha decorrenza da 1° gennaio 2010 ai sensi dell’Art. 32 della legge 18 giugno 2009 n. 69;
+3. Il presente regolamento sostituisce ed abroga il precedente, approvato in ultimo con deliberazione di C.C. n. 21 del 15 aprile 2004;
+4. Dalla data di entrata in vigore del presente regolamento si intendono abrogate e/o disapplicate le vigenti norme statutarie o regolamenti in materia non compatibili con l’Art. 32 della legge 69/2009 e la presente disciplina.
 
- .. _art. 19, comma 1 della L. 241/1990: http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg
- .. _art. 14, legge 8 giugno 1986, n. 349: http://www.minambiente.it/sites/default/files/legge_08_07_1986_349.pdf
- .. _art. 3, D. Lgs, 23 novembre 1991, n. 391: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;391
+.. _D.Lgs. 25 maggio 2016 n. 97: http://www.gazzettaufficiale.it/eli/id/2016/06/08/16G00108/sg
+.. _C.C. n. 6 del 2/3/2017: http://dgegovpa.it/Gioiadelcolle/albo/dati/20170006C.PDF
+.. _art. 19, comma 1 della L. 241/1990: http://www.gazzettaufficiale.it/eli/id/1990/08/18/090G0294/sg
+.. _art. 14, legge 8 giugno 1986, n. 349: http://www.minambiente.it/sites/default/files/legge_08_07_1986_349.pdf
+.. _art. 3, D. Lgs, 23 novembre 1991, n. 391: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;391
