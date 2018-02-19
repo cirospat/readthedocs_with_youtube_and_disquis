@@ -1,22 +1,24 @@
-====================================================================================================================================================================
+=========
+F.O.I.A
+=========
 REGOLAMENTO COMUNALE IN MATERIA DI PROCEDIMENTO AMMINISTRATIVO,DI DIRITTO DI ACCESSO AI DOCUMENTI AMMINISTRATIVI E DI DIRITTO DI ACCESSO CIVICO AI DATI E DOCUMENTI
-====================================================================================================================================================================
 
 - Ai sensi del D.Lgs 33/2013 modificato dal `D.Lgs. 25 maggio 2016 n. 97`_
 - Approvato con Deliberazione di `C.C. n. 6 del 2/3/2017`_
 
+------------------------------------------
 TITOLO I - IL PROCEDIMENTO AMMINISTRATIVO
-==========================================
+------------------------------------------
 
 Art. 1 Oggetto e finalità
-----------------------------
+==========================
 
 1. Il Comune di Gioia del Colle, in armonia con i principi della legge 7 agosto 1990, n. 241 e sue successive modifiche ed integrazioni (di seguito legge n. 241/1990), del proprio Statuto e dei principi dell’ordinamento comunitario, si impegna a garantire, nell'esercizio dell'attività amministrativa, adeguati livelli di pubblicità, trasparenza, imparzialità e semplificazione, nel rispetto dell'economicità e dell'efficacia dell'azione amministrativa, favorendo la massima partecipazione dei cittadini.
 2. Il presente regolamento disciplina i procedimenti amministrativi, individua i termini di conclusione degli stessi, l’applicabilità degli istituti della dichiarazione di inizio dell’attività e del silenzio assenso ed individua l’unità organizzativa responsabile del procedimento. Per unità organizzativa responsabile del procedimento si intendono le singole Aree/Servizi nei quali si articola l’organizzazione del Comune di cui al vigente Regolamento sull’Ordinamento degli Uffici e dei Servizi. L’individuazione dell’Area/Servizio competente, può essere modificata con disposizione del Segretario Comunale a seguito di modifiche alla struttura organizzativa e/o alla composizione delle Aree/Servizi.
 3. Il procedimento non può essere aggravato se non per straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria.
 
 Art. 2 Definizioni
-----------------------------
+==========================
 
 1. Ai fini del presente regolamento si intende:
 
@@ -34,7 +36,7 @@ Art. 2 Definizioni
   12. per "responsabile del procedimento" il Responsabile di ciascuna unità organizzativa (Area/Servizio) cui afferisce la competenza per materia o altro dipendente da lui delegato.
 
 Art. 3 Individuazione dei termini dei procedimenti amministrativi
---------------------------------------------------------------------
+====================================================================
 
 1. Ogni procedimento deve concludersi entro un determinato termine. I termini di conclusione del procedimento, nel caso in cui non siano già disciplinati dalla legge, sono quelli fissati nell’allegato al presente regolamento. Qualora il termine entro il quale il procedimento deve concludersi non risulti disciplinato né dalla legge, né dal presente regolamento, lo stesso è di 90 giorni,
 2. Al fine di favorire la conoscibilità dell’azione amministrativa, i procedimenti amministrativi di competenza del Comune di Gioia del Colle potranno essere dettagliati, a cura dei singoli settori/aree, in apposite “schede di settore/aree”, da pubblicare sul sito del Comune e da aggiornare periodicamente.
@@ -42,7 +44,7 @@ Art. 3 Individuazione dei termini dei procedimenti amministrativi
 4. Per conseguire maggiore efficienza nella propria attività, il Comune di Gioia del Colle incentiva l'uso della telematica nei rapporti interni, tra le diverse Amministrazioni e tra queste e i privati.
 
 Art. 4 Unità organizzativa responsabile del procedimento
-------------------------------------------------------------
+=================================================================
 
 1. Ove non sia già direttamente stabilito per legge o per regolamento, e salva espressa individuazione delle unità organizzative responsabili per ciascun procedimento, l'individuazione delle unità organizzative responsabili della istruttoria, di ogni altro adempimento procedimentale, nonché dell’adozione del provvedimento finale di competenza dell'Amministrazione, avviene sulla base dello schema organizzativo vigente e sulla base dell'attribuzione delle materie alle diverse strutture.
    Le unità organizzative coincidono con le aree/servizi individuati dalla Giunta Comunale nell’ambito del regolamento sull’ordinamento degli uffici e dei servizi.
@@ -52,7 +54,7 @@ Art. 4 Unità organizzativa responsabile del procedimento
 5. Nel caso di procedimenti d'ufficio il responsabile del procedimento è il Responsabile di Area/Servizio competente ad attivare il primo atto d'impulso.
 
 Art. 5 Compiti del responsabile del procedimento
-----------------------------------------------------
+====================================================
 
 1. Il responsabile del procedimento esercita le attribuzioni contemplate dall'art. 6 della legge n. 241/1990, e successive modifiche ed integrazioni, provvedendo fra l'altro:
 
@@ -68,7 +70,7 @@ Art. 5 Compiti del responsabile del procedimento
 2. L'organo competente per l'adozione del provvedimento finale, ove diverso dal responsabile del procedimento, non può discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento se non indicandone la motivazione nel provvedimento finale.
 
 Art. 6 Avvio del procedimento
---------------------------------
+=======================================
 
 1. I procedimenti d'ufficio sono attivati su iniziativa degli organi dell'Amministrazione comunale competenti per attribuzione di legge, Statuto o Regolamenti.
 2. Resta salva la facoltà del Comune di adottare, anche prima della formalizzazione del procedimento e dei relativi adempimenti, motivati provvedimenti cautelari.
@@ -88,7 +90,7 @@ Art. 6 Avvio del procedimento
   - nel caso di reiterazione di istanze dello stesso tenore.
 
 Art. 7 Interruzione dei termini del procedimento
-----------------------------------------------------------------
+====================================================
 
 1. Il responsabile del procedimento, nel caso in cui la dichiarazione, domanda o istanza presenti irregolarità sostanziali o sia carente di uno o più degli elementi prescritti, interrompe i termini del procedimento comunicando le cause di irregolarità o di incompletezza e i termini per la presentazione della documentazione eventualmente richiesta.
 2. L'interruzione del procedimento comporta:
@@ -97,7 +99,7 @@ Art. 7 Interruzione dei termini del procedimento
   b) la chiusura del procedimento, quando nel termine stabilito dall'Amministrazione non siano presentati gli elementi richiesti.
 
 Art. 8 Sospensione dei termini del procedimento
-----------------------------------------------------------------
+====================================================
 
 1. Il termine del procedimento può essere sospeso, per una sola volta, quando il responsabile del procedimento ritenga necessario integrare o regolarizzare la documentazione presentata, ovvero ritenga di dover acquisire informazioni o certificazioni relative a fatti, stati o qualità non attestati in documenti già in possesso dell'amministrazione stessa o non direttamente acquisibili presso altre pubbliche
 2. Nei casi in cui leggi o regolamenti prevedono, per l'adozione del provvedimento l'acquisizione di valutazioni tecniche di organi o enti appositi e tali valutazioni non siano rese nei termini prefissati dalla disposizione stessa o in mancanza entro 90 giorni, le valutazioni tecniche suddette dovranno essere richieste agli altri organi di cui all’art. 17 comma 1 della legge 241/1990 nel termine di 30 giorni. La norma si applica anche ai procedimenti che richiedono l’acquisizione di valutazioni tecniche da parte di un settore comunale diverso rispetto a quello competente all’adozione del provvedimento finale.
@@ -107,7 +109,7 @@ Art. 8 Sospensione dei termini del procedimento
 5. Nel caso in cui il privato non produca la documentazione necessaria entro il termine indicato nella richiesta di integrazione, il Comune potrà dar corso all’archiviazione del procedimento.
 
 Art. 9 Dichiarazione di inizio attività
-----------------------------------------------------------------
+====================================================
 
 1. La dichiarazione di inizio attività (D.I.A.), è titolo idoneo a consentire l'inizio dell'attività decorso il termine di 30 (trenta) giorni dalla data della sua presentazione. Contestualmente all'inizio dell'attività, l'interessato ne dà comunicazione all'Amministrazione.
 2. L’istituto della dichiarazione di inizio attività e del silenzio assenso non trovano applicazione:
@@ -138,12 +140,12 @@ Art. 9 Dichiarazione di inizio attività
 8. Restano ferme le disposizioni normative di settore e gli artt. 19 e 20 della legge n. 241/90 che prevedono termini diversi da quelli di cui ai commi 1 e 5 per l'inizio dell'attività e per l'adozione da parte dell'Amministrazione competente di provvedimenti di divieto di prosecuzione dell'attività e di rimozione dei suoi effetti.
 
 Art. 10 Segnalazione certificata di inizio attività
-----------------------------------------------------------------
+====================================================
 
 Integra l’`art. 19, comma 1 della L. 241/1990`_, prevedendo espressamente che la Segnalazione certificata di inizio attività è corredata dalle attestazioni e asseverazioni di tecnici abilitati o di dichiarazioni di conformità delle Agenzie per le Imprese solo ove espressamente previsto dalla normativa vigente.
 
 Art. 11 Conclusione e chiusura del procedimento
-----------------------------------------------------------------
+====================================================
 
 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, esso viene sempre concluso mediante l'adozione di un provvedimento espresso.
 2 Qualora si ravvisi la manifesta irricevibilità, inammissibilità, improcedibilità o infondatezza della domanda, la pubblica Amministrazione conclude il procedimento con un provvedimento espresso redatto in forma semplificata, la cui motivazione può consistere in un sintetico riferimento al punto di fatto o di diritto ritenuto risolutivo.
@@ -162,23 +164,23 @@ Art. 11 Conclusione e chiusura del procedimento
 6. Nella comunicazione devono essere indicati il termine e l'autorità cui è possibile ricorrere.
 
 Art. 12 Silenzio/ritardo della P.A.
-----------------------------------------------------------------
+=======================================
 
 1. In materia di silenzio della P.A. le sentenze passate in giudicato che accolgono ricorsi contro la P.A. sono trasmesse telematicamente alla Corte dei Conti; la mancata o tardiva emanazione del provvedimento costituisce elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo – contabile del dirigente e del funzionario inadempiente.
 2. L’organo di governo della P.A. individua, tra le proprie figure apicali: Segretario Comunale e Responsabili dei Settori/Aree, il soggetto cui attribuire il poter sostitutivo in caso di inerzia: decorso il termine per la conclusione del procedimento, il privato può rivolgersi al dirigente individuato affinché concluda il procedimento entro metà del termine originariamente previsto attraverso le strutture competenti o con la nomina di un commissario.
 3. Nei provvedimenti rilasciati in ritardo su istanza di parte deve essere indicato il termine previsto dalla legge e quello effettivamente impiegato.
 
 Art. 13 Norma di rinvio
-----------------------------------------------------------------
+==========================
 
 1. Per quanto non espressamente previsto nel presente regolamento si rinvia alla legge n. 241/1990 e sue successive modifiche ed integrazioni e alle specifiche discipline di settore.
 
+------------------------------------------------
 TITOLO II - ACCESSO AI DOCUMENTI AMMINISTRATIVI
-================================================
+------------------------------------------------
 
------------------------------
 CAPO I DISPOSIZIONI GENERALI
------------------------------
+=======================================
 
 Art. 14 Fonti e finalità
 -----------------------------
@@ -357,9 +359,8 @@ Art. 27 Tutela giurisdizionale del diritto di accesso
 
 1. Con il provvedimento finale che decide in ordine all’ammissibilità della richiesta d’accesso l'interessato deve essere informato della tutela giurisdizionale del diritto dallo stesso attivabile secondo il comma 5 dell'art. 25 della legge 7 agosto 1990, n. 241
 
------------------------------------
 CAPO II - DIRITTO DI INFORMAZIONE
------------------------------------
+====================================
 
 Art. 28 Garanzie del diritto
 -----------------------------
@@ -372,7 +373,7 @@ Art. 28 Garanzie del diritto
 6. Le forme associative possono chiedere informazioni al Sindaco e alla Giunta sui provvedimenti di loro interesse. Le richieste sono trasmesse al Sindaco che risponde nelle stesse forme previste per le interrogazioni.
 
 Art. 29 Oggetto del diritto
-----------------------------------------------------------------
+-------------------------------
 
 1. Il diritto ha per oggetto le informazioni desumibili da atti, documenti, pubblicazioni, registrazioni e da dati in possesso del Comune.
 2. La legge garantisce espressamente l'accesso alle informazioni relative:
@@ -388,7 +389,7 @@ Art. 29 Oggetto del diritto
 3. Il Comune assicura attraverso i Responsabili dei procedimenti di accesso e nelle altre forme previste dai successivi articoli l’accesso alle informazioni in suo possesso, con l’esclusione di quelle per le quali ricorrono le condizioni preclusive o limitative previste dal presente regolamento.
 
 Art. 30 Funzionamento
-----------------------------------------------------------------
+--------------------------
 
 1. I Responsabili dei procedimenti d'accesso provvedono a fornire informazioni relative all'iter da seguire:
 
@@ -449,23 +450,24 @@ Art. 33 Informazioni raccolte mediante strumenti informatici
 3. Le informazioni di cui al presente articolo devono essere trattate secondo le finalità indicate dal D. Lgs. 30 giugno 2003, n.196, idonee ad assicurare la loro protezione dalla variazione o dalla divulgazione non autorizzati. In tali casi, le copie dei dati informatizzati possono essere rilasciate sugli appositi supporti, ove forniti dal richiedente, ovvero mediante collegamento telematico.
 4. L'accesso alle informazioni raccolte mediante strumenti informatici viene attuato attraverso idonei sistemi e parametri di accesso stabiliti dai soggetti incaricati per le funzioni di cui all’art.107 del D.lgs.267/2000.
 
+--------------------------------------
 TITOLO III DIRITTO DI ACCESSO CIVICO
-=======================================
+--------------------------------------
 
 Art. 34 Principi
-----------------------------------------------------------------
+==========================
 
 1. L’accesso civico generalizzato è il diritto di chiunque di richiedere i documenti, le informazioni e i dati oggetto di accesso civico ivi compresi quelli oggetto di pubblicazione obbligatoria (accesso civico semplice) ai sensi della normativa vigente (articoli 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38 e 39 del D.Lgs. n. 33/2013 come modificato dal D.Lgs. n. 97/2016) in quanto pubblici e pertanto chiunque ha diritto di conoscerli, di fruirne gratuitamente e di utilizzarli e riutilizzarli ai sensi dell’art. 36, nei casi in cui il Comune di gioia del Colle abbia omesso di renderli disponibili nella sezione AMMINISTRAZIONE TRASPARENTE del sito istituzionale http://www.comune.gioiadelcolle.ba.it
 
 Art. 35 Oggetto
-----------------------------------------------------------------
+==========================
 
 1. Le disposizioni del presente regolamento disciplinano anche la libertà di accesso di chiunque ai dati e ai documenti detenuti dal Comune di Gioia del Colle, garantita, nel rispetto dei limiti relativi alla tutela di interessi pubblici e privati giuridicamente rilevanti, tramite l'accesso civico e tramite la pubblicazione di documenti, informazioni e dati concernenti l'organizzazione e l’attività delle pubbliche amministrazioni e le modalità per la loro realizzazione.
 2. Per pubblicazione si intende la pubblicazione, in conformità alle specifiche e alle regole tecniche di cui all'allegato A del D.Lgs. n. 33/2013 come modificato dal D.Lgs. n. 97/2016, nel sito istituzionale del Comune di Gioia del Colle http://www.comune.gioiadelcolle.ba.it dei documenti, delle informazioni e dei dati concernenti l'organizzazione e l’attività dell’Amministrazione, cui corrisponde il diritto di chiunque di accedere ai siti direttamente ed immediatamente, senza autenticazione ed identificazione
 3. Il Comune di Gioia del Colle sul proprio sito istituzionale, in una parte chiaramente identificabile della sezione "Amministrazione trasparente", pubblica, ai sensi dell’art. 4 bis del D.Lgs. n. 33/2013 come modificato dal D.Lgs. n. 97/2016, i dati sui propri pagamenti e ne permette la consultazione in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari.
 
 Art. 36 Procedura e termini
-----------------------------------------------------------------
+=======================================
 
 1. L’accesso civico generalizzato è un diritto che può essere esercitato da chiunque, è gratuito salvo il rimborso del costo effettivamente sostenuto e documentato dall'Amministrazione per la riproduzione su supporti materiali, non deve essere motivato e la richiesta va indirizzata ad uno degli Uffici indicati al comma 4.
 2. Allo scopo di favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche e di promuovere la partecipazione al dibattito pubblico, chiunque ha diritto di accedere ai dati e ai documenti detenuti dal Comune di Gioia del Colle, ulteriori rispetto a quelli oggetto di pubblicazione (accesso civico semplice) ai sensi del presente regolamento, nel rispetto dei limiti relativi alla tutela di interessi giuridicamente rilevanti secondo quanto previsto dall'articolo 37.
@@ -490,7 +492,7 @@ Art. 36 Procedura e termini
 15. Le richieste di accesso di competenza di altre Amministrazioni sono immediatamente trasmesse a queste ultime, dandone comunicazione al richiedente.
 
 Art. 37 Esclusioni e limiti all’accesso civico
-----------------------------------------------------------------
+====================================================
 
 1. L'accesso civico generalizzato di cui all'articolo 36, comma 2, è rifiutato (eccezioni relative) se il diniego è necessario per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici inerenti a:
 
@@ -511,22 +513,23 @@ Art. 37 Esclusioni e limiti all’accesso civico
 5. I limiti di cui ai commi 1 e 2 si applicano unicamente per il periodo nel quale la protezione è giustificata in relazione alla natura del dato. L'accesso civico generalizzato non può essere negato ove, per la tutela degli interessi di cui ai commi 1 e 2, sia sufficiente fare ricorso al potere di differimento.
 6. Ai fini della definizione delle esclusioni e dei limiti all'accesso civico generalizzato di cui al presente articolo, l’Autorità nazionale anticorruzione, d'intesa con il Garante per la protezione dei dati personali e sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, adotta linee guida recanti indicazioni operative a cui l’Amministrazione farà riferimento. (www.anticorruzione.it).
 
+--------------------------------
 TITOLO IV – DISPOSIZIONI FINALI
-=================================
+--------------------------------
 
 Art. 38 Modulistica utile per l’applicazione del presente regolamento
-----------------------------------------------------------------------
+==============================================================================
 
 1. Al fine di facilitare gli operatori negli adempimenti di competenza, per la puntuale applicazione delle norme e di ridurre al minimo il numero delle operazioni materiali
 occorrenti, gli uffici fanno uso di modulistica appositamente approntata.
 
 Art. 39 Tutela dei dati personali
-----------------------------------------------------------------
+=======================================
 
 1. Il Comune garantisce, nelle forme ritenute più idonee, che il trattamento dei dati personali in suo possesso, si svolga nel rispetto dei diritti, delle libertà fondamentali, nonché della dignità delle persone fisiche, ai sensi del D.Lgs. n. 196/2003.
 
 Art. 40 Casi non previsti nel presente regolamento
-----------------------------------------------------------------
+====================================================
 
 1.Per quanto non previsto nel presente regolamento troveranno applicazione:
 
@@ -535,33 +538,33 @@ Art. 40 Casi non previsti nel presente regolamento
   c) gli altri regolamenti comunali in quanto applicabili;
 
 Art. 41 Rinvio dinamico
-----------------------------------------------------------------
+==========================
 
 1. Le norme del presente regolamento si intendono modificate per effetto di sopravvenute norme vincolanti statali e regionali.
 2. In tali casi, in attesa della formale modificazione del presente regolamento, si applica la normativa sopra ordinata.
 
 Art. 42 Norma speciale
-----------------------------------------------------------------
+==========================
 
 1. Per quanto riguarda i procedimenti in materia edilizia, tributaria, sicurezza, polizia amministrativa, codice della strada e relativamente al diritto di accesso all’informazione ambientale, nonché per tutte quelle disciplinate da normativa speciale, si applicano le specifiche normative nazionali e regionali di settore e relativi regolamenti comunali, nonché le disposizioni del presente regolamento, in quanto compatibili.
 
 Art. 43 Abrogazione di norme
-----------------------------------------------------------------
+=======================================
 
 1. All’entrata in vigore del presente regolamento è abrogato il “Regolamento in materia di termini – di responsabile del procedimento – diritto di accesso ai documenti amministrativi e tutela dei dati personali” approvato dal Consiglio comunale in ultimo con deliberazione 21 del 15.04.2004, nonché tutte le altre disposizioni incompatibili contenute in altri provvedimenti.
 
 Art. 44 Decorrenza
-----------------------------------------------------------------
+==========================
 
 Il presente regolamento entrerà in vigore dalla data dell’avvenuta esecutività della deliberazione di approvazione.
 
 Art.45 Pubblicità del regolamento
-----------------------------------------------------------------
+=======================================
 
 Copia del presente regolamento deve essere pubblicata sul sito web del Comune nel link “Amministrazione trasparente”.
 
 Art.46 Pubblicazione ed entrata in vigore
-----------------------------------------------------------------
+====================================================
 
 1. Il presente regolamento, composto da n. 46 articoli, entra in vigore ad avvenuta esecutività della deliberazione con la quale è stato approvato.
 2. L’obbligatorietà ed esecutività della pubblicazione degli atti e procedimenti nell’Albo Pretorio Informatico ha decorrenza da 1° gennaio 2010 ai sensi dell’Art. 32 della legge 18 giugno 2009 n. 69;

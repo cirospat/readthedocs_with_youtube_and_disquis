@@ -5,7 +5,7 @@ Piano Triennale di Prevenzione della Corruzione e della Trasparenza 2018/2020
 Il Comune di Gioia del Colle, nell'ambito delle iniziative e delle attività svolte in materia di trasparenza e degli interventi per la prevenzione e il contrasto della corruzione, su proposta del Responsabile per la prevenzione della corruzione e della trasparenza, deve approvare entro il prossimo mese di gennaio 2018 l’aggiornamento del Piano Triennale di Prevenzione della Corruzione (PTPC) comprensivo di una sezione sugli obblighi per la Trasparenza.
 Per favorire un ampio coinvolgimento e una efficace partecipazione si invitano i cittadini, le associazioni o altre forme di organizzazioni portatrici di interessi collettivi, a presentare eventuali proposte, osservazioni per l’elaborazione del Piano di prevenzione della corruzione 2018-2020.
 
-Le proposte vanno inviate tramite email a `segretario.gioiadelcolle@pec.rupar.puglia.it`_ entro il 31 dicembre 2017, utilizzando il `modulo predisposto`_.
+Le proposte vanno inviate tramite email a `segretario.gioiadelcolle@pec.rupar.puglia.it`_ entro il 23 Febbraio 2018, utilizzando il `modulo predisposto`_.
 
 Il Comune di Gioia del Colle, in sede di predisposizione dell'aggiornamento del P.T.P.C. 2018-2020 valuterà gli eventuali contributi pervenuti e l'esito della consultazione sarà pubblicato sul sito internet dell'amministrazione, in apposita sezione del P.T.P.C. 2018-2020, con la specifica dei risultati rilevati da tale partecipazione.
 

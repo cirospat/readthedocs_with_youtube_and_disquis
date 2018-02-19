@@ -61,6 +61,14 @@ Contatti:
 - `segretario.gioiadelcolle@pec.rupar.puglia.it`_
 - tel. 0803494232
 
+Segnalazioni in materia di anticorruzione, trasparenza e imparzialità
+=======================================================================
+Moduli per invio di segnalazioni all'`ANAC`_ (Associazione Nazionale Anti Corruzione)
+
+- `Modulo di segnalazione`_
+- `Regolamento sull’esercizio dell’attività di vigilanza sul rispetto degli obblighi di pubblicazione di cui al decreto legislativo 14 marzo 2013, n. 33`_
+
+
 .. _ufficiostampa.gioiadelcolle@pec.rupar.puglia.it: mailto:ufficiostampa.gioiadelcolle@pec.rupar.puglia.it
 .. _segretario.gioiadelcolle@pec.rupar.puglia.it: mailto:segretario.gioiadelcolle@pec.rupar.puglia.it
 .. _art. 5, co. 1, del decreto legislativo 14 marzo 2013, n. 33: http://www.funzionepubblica.gov.it/articolo/ministro/12-02-2016/trasparenza
@@ -69,3 +77,6 @@ Contatti:
 .. _FOIAPOP: http://www.foiapop.it/ente/6f46f254-0ff0-40cd-be4f-f354ee3ccc88/scegli
 .. _D. Lgs n. 97/2016: http://www.gazzettaufficiale.it/eli/id/2016/06/08/16G00108/sg
 .. _protocollogenerale.gioiadelcolle@pec.rupar.puglia.it: mailto:`protocollogenerale.gioiadelcolle@pec.rupar.puglia.it`_
+.. _ANAC: https://www.anticorruzione.it
+.. _Modulo di segnalazione: https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Servizi/Modulistica/Mod_Reg_nto_trasparenza.pdf
+.. _Regolamento sull’esercizio dell’attività di vigilanza sul rispetto degli obblighi di pubblicazione di cui al decreto legislativo 14 marzo 2013, n. 33: http://www.anticorruzione.it/portal/public/classic/AttivitaAutorita/AttiDellAutorita/_Atto?id=90341c120a77804246ae5a0476fe462c
