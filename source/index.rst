@@ -7,9 +7,10 @@ Accesso Civico
 ================================
 .. toctree::
    :maxdepth: 2
-   :caption: Informazioni:
+   :caption: Cos'è:
 
    info/index
+   info/accesso_civico
 
 F.O.I.A.
 ================================
