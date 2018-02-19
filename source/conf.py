@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Statuto Comunale"
+settings_project_name = "F.O.I.A."
 settings_copyright_year = '2018'
 settings_copyright_name = 'Comune di Gioia del Colle'
 settings_doc_version = 'Versione: 02.03.2017'
