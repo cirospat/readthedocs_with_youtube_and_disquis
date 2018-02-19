@@ -1,7 +1,4 @@
 ==================================
-Tipi di Accesso Civico
-==================================
-
 Accesso civico alle pubblicazioni
 ==================================
 
@@ -20,8 +17,9 @@ Modalità per l'esercizio del diritto di accesso civico: la richiesta di accesso
 
 La richiesta dovrà essere inviata utilizzando l'apposito modulo scaricabile da questa sezione, debitamente compilato e sottoscritto con firma autografa, unitamente a una copia del documento di identità in corso di validità del soggetto richiedente.
 
+===============================
 Accesso civico generalizzato
-=================================================================
+===============================
 
 .. sidebar:: Accesso civico generalizzato
    :subtitle: FOIA - Freedom Of Information Act `art. 5, co. 2, del decreto legislativo 14 marzo 2013, n. 33`_
@@ -45,3 +43,4 @@ In alternativa, il richiedente può presentare ricorso al TAR di Bari entro 60 g
 
 .. _art. 5, co. 1, del decreto legislativo 14 marzo 2013, n. 33: http://www.funzionepubblica.gov.it/articolo/ministro/12-02-2016/trasparenza
 .. _art. 5, co. 2, del decreto legislativo 14 marzo 2013, n. 33: http://www.funzionepubblica.gov.it/articolo/ministro/12-02-2016/trasparenza
+.. _D. Lgs n. 97/2016: http://www.gazzettaufficiale.it/eli/id/2016/06/08/16G00108/sg

@@ -3,14 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Accesso Civico
+Cosa puoi fare con il F.O.I.A.
+==================================
+
+.. toctree::
+   :maxdepth: 2
+
+.. raw:: html
+   :file: faicomepeppe_video.html
+
+Come richiedere i dati
 ================================
 .. toctree::
    :maxdepth: 2
-   :caption: Cos'è:
 
    info/index
-   info/accesso_civico
+
+Accesso Civico
+================================
+.. toctree::
+  :maxdepth: 2
+
+  info/accesso_civico
 
 F.O.I.A.
 ================================
@@ -20,4 +34,12 @@ F.O.I.A.
    :caption: Regolamento:
 
    foia/index
-   ptct/index
+
+Piano Triennale Corruzione e Trasparenza
+=========================================
+
+.. toctree::
+  :maxdepth: 4
+  :caption: Regolamento:
+
+  ptct/index
